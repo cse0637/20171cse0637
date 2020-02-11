@@ -1,0 +1,30 @@
+<html >
+    <head>
+	<title> Sample Resume </title>
+    </head>	
+
+    <body leftmargin=500 bgcolor=powderblue rightmargin=500  >
+	<p>
+	<img src=/home/Sem6B10/Desktop/car.jpeg  alt=TestImage align=right />	
+
+
+	<div style=background-color:Green;color:black; >
+	
+	<h1></h1>
+	<b> Sharan V A </b><br>
+	<a href="https:gmail.com/" >201710100809@presidencyuniversity.in </a><br>
+	<u> +91 &nbsp 96634&nbsp12296 </u>
+	</p>
+
+	<hr></hr>
+	<p>
+	<h3>Keywords</h3>
+	<li> c/c++,java</li>
+	<li> php,css,html</li>
+	</p>
+	<hr></hr>
+
+	<h3>Experience</h3>
+	<li>Ip-1</li>
+	<
+	
