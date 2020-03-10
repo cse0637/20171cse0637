@@ -56,6 +56,9 @@ div{padding:25px 50px 70px 100px}}
 	background-color:yellow;
 	}
 
+
+	h1::after{content:url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");}
+
 	a.d1{color:black;word-spacing:5px; }
 	a.d2{color:green;text-decoration:none;}
 	a.d3{border:1px solid green;padding:5px;text-decoration:none;}
@@ -64,6 +67,32 @@ div{padding:25px 50px 70px 100px}}
 
 	a.d5:visited{color:red;}
 	a.d6:hover{color:green;background-color:yellow;padding:10px;}
+
+
+
+	p::first-line{color:blue;font-variant:small-caps;}
+
+	p::first-letter{color:red;font-size:xx-large;}
+
+
+
+	::selection{color:blue;background:green}
+
+
+	div.a1{background-image:url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");padding:60px;}
+
+	div.a2{background-color:white;padding:30px;opacity:0.4;color:red}
+
+
+
+	#grad{background-image:linear-gradient(orange,white,green);}
+	#hii{background-image:linear-gradient(to right,red,orange,yellow,green,blue,indigo,violet);}
+	#hru{background-image:linear-gradient(to bottom,red10%,yellow);}
+	#bye{background-image:linear-gradient(-90deg,red,yellow,blue,green,pink);}
+
+	#y{background-image:linear-gradient(to right
+
+
 
 
 
